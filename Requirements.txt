@@ -1,8 +1,8 @@
 Requirements
 
-Numpy
-Pandas
-Matplotlib.pyplot
-Seaborn
-Plotly.express
-Streamlit
+NumPy == 2.1.1
+Pandas == 2.2.3
+Matplotlib == 3.9.2
+Seaborn == 0.13.2
+Plotly == 5.24.1
+Streamlit == 1.39.0
