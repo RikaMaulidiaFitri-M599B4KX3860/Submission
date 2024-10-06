@@ -1,0 +1,8 @@
+Requirements
+
+Numpy
+Pandas
+Matplotlib.pyplot
+Seaborn
+Plotly.express
+Streamlit
